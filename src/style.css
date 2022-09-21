@@ -171,6 +171,13 @@ p {
     border-radius: 150px;
 }
 
+.project-image:hover {
+    transition: transform .2s; /* Animation */
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+}
+
 hr {
     margin-left: 20px;
     margin-right: 20px;
